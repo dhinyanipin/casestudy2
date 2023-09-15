@@ -1,0 +1,19 @@
+.container{margin: 60px;
+    background-color: rgb(204, 227, 253);
+
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  th,
+  td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  input[type="checkbox"] {
+    transform: scale(1.5);
+  }
